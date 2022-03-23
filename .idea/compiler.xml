@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-A_method_taking_an_array.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Adding_values.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Application_as_a_class.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-How_to_invoke_the_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Sorting_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-The_declaration_of_the_sumAll_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Varargs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-What_does_the_code_print.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Create_cube.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Find_the_corners.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Swap_the_columns.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Avoid_NPE.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Code_that_throws_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Lines_that_may_throw_NPE.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-When_NPE_cannot_occur.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Collatz_conjecture.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Determine_the_result.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Determine_the_result__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Magic_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Profit.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_number_of_loop_body_executions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
